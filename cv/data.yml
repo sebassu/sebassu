@@ -1,0 +1,190 @@
+personal:
+  name: Sebastián Uriarte Güimil
+  email: sebastian.uriarteg@gmail.com
+  phone: (+34) 655 316 296
+  url: null
+  titles:
+    - Software Engineer
+    - Lecturer
+  location:
+    city: Santiago de Compostela
+    region: Galicia
+    country: Spain
+  profiles:
+    - network: LinkedIn
+      username: sebassu
+      url: https://linkedin.com/in/sebassu
+    - network: GitHub
+      username: sebassu
+      url: https://github.com/sebassu
+work:
+  - organization: Blend
+    url: https://www.blend360.com
+    location: Montevideo, Uruguay
+    positions:
+      - position: Senior Full Stack Engineer
+        startDate: 2022-11-01
+        endDate: "present"
+        highlights:
+          - Contributed to backend development and re-architecture efforts using Python, Flask, and Event Sourcing for scalable data processing
+          - Built AI-driven data pipelines with LlamaIndex, enabling LLM natural language querying over social and user-uploaded data
+          - Optimized ML-powered services for performance and scalability, successfully deployed in AWS environments
+  - organization: Centro de Supercomputación de Galicia (CESGA)
+    url: https://www.cesga.es
+    location: Santiago de Compostela, Spain
+    positions:
+      - position: HPC Intern
+        startDate: 2025-03-01
+        endDate: 2025-05-01
+        highlights:
+          - Analyzed Slurm job usage data to detect inefficient user resource requests, contributing to improved scheduling and cluster utilization
+          - Ran and evaluated MLPerf AI benchmarks to compare performance between NVIDIA and AMD GPU architectures, to be used in procurement decisions
+  - organization: Universidad ORT Uruguay
+    url: https://www.ort.edu.uy
+    location: Montevideo, Uruguay
+    positions:
+      - position: Lecturer
+        startDate: 2022-03-01
+        endDate: "present"
+        highlights:
+          - Lectured on compilation and core data structures, combining theory with hands-on implementation guidance
+          - Assessed student work and supported learning through evaluations and academic mentoring
+      - position: Laboratory/Practical Teacher
+        startDate: 2017-08-01
+        endDate: 2022-03-01
+        highlights:
+          - Led practical sessions across multiple foundational CS courses, bridging theory and application
+          - Supported student learning through hands-on exercises, Q&A, and lab evaluation
+      - position: Technology Lecturer
+        startDate: 2019-08-01
+        endDate: 2021-03-01
+        highlights:
+          - Delivered classes on full-stack web development with ASP.NET Core and Angular, focusing on clean architecture and best practices
+          - Mentored students through a comprehensive server-client project aligned with real-world business requirements
+      - position: Teaching assistant
+        startDate: 2017-03-01
+        endDate: 2019-08-01
+        highlights:
+          - Provided student support and lab guidance across core computing and software engineering courses
+          - Helped design and assess lab assignments, including automated test implementation and course alignment
+  - organization: Globant
+    url: https://www.globant.com
+    location: Montevideo, Uruguay
+    positions:
+      - position: SSr. Adv. Developer
+        startDate: 2021-07-01
+        endDate: 2022-11-01
+        highlights:
+          - Built and maintained backend services using Node.js, NestJS, and GraphQL for enterprise-scale web applications
+          - Enhanced mobile apps in React Native and iOS, focusing on UI/UX improvements and new feature delivery
+          - Developed content management tools for a global media client, streamlining workflows across platforms
+  - organization: OrangeLoops
+    url: https://orangeloops.com
+    location: Montevideo, Uruguay
+    positions:
+      - position: iOS/React Native Developer
+        startDate: 2018-09-01
+        endDate: 2021-04-01
+        highlights:
+          - Developed and maintained iOS and React Native apps for diverse clients, including fintech and startup sectors
+          - Delivered backend and AI-powered features using Node.js, GraphQL, AWS, and Python (Keras/TensorFlow)
+          - Tackled complex technical challenges, including Bluetooth LE integration and scalable cloud deployments
+education:
+  - institution: Universidad de Santiago de Compostela
+    url: https://www.usc.gal
+    area: High Performance Computing
+    studyType: Master's Degree
+    startDate: 2024-09-01
+    endDate: 2025-08-01
+    location: Santiago de Compostela, Spain
+    courses: null
+    honors: null
+    highlights: null
+  - institution: Universidad ORT Uruguay
+    url: https://www.ort.edu.uy
+    area: Big Data
+    studyType: Master's Degree
+    startDate: 2021-03-01
+    endDate: 2024-07-01
+    location: Montevideo, Uruguay
+    highlights:
+      - Specialized in Artificial Intelligence
+    honors: null
+    courses: null
+  - institution: Universidad ORT Uruguay
+    url: https://www.ort.edu.uy
+    area: Computer Systems
+    studyType: Engineer
+    startDate: 2014-03-01
+    endDate: 2020-08-01
+    location: Montevideo, Uruguay
+    honors: null
+    courses: null
+    highlights: null
+projects:
+  - name: Parallelization of Parallel Pipeline Benchmarks with OneTBB
+    url: null
+    affiliation: Universidad de Santiago de Compostela
+    startDate: 2025-02-01
+    endDate: 2025-08-01
+    highlights:
+      - Reimplemented the _ferret_ and _dedup_ workloads from the PARSEC benchmark suite using Intel OneTBB, including a version based on flow graph abstractions
+      - Conducted performance comparisons between the original and reengineered versions, analyzing scalability and efficiency improvements achieved through modern parallelization techniques
+  - name: Design and implementation of a prototype to protect sensitive data using Homomorphic Encryption and Differential Privacy
+    url: https://sisbibliotecas.ort.edu.uy/cgi-bin/koha/opac-retrieve-file.pl?id=d0998acb2f986a959b5a4c95a816498b
+    affiliation: Universidad ORT Uruguay
+    startDate: 2022-08-01
+    endDate: 2023-03-01
+    highlights:
+      - Implemented a privacy-preserving machine learning system based on the PATE framework to safeguard sensitive training data
+      - Documented architectural decisions, key learnings, and conclusions; published source code to support future research and development
+  - name: Non-deterministic automata inference from Recurrent Neural Networks
+    url: https://sisbibliotecas.ort.edu.uy/cgi-bin/koha/opac-retrieve-file.pl?id=c0794ac7daa2e7eb51a8fbfea4c9184c
+    affiliation: Universidad ORT Uruguay
+    startDate: 2019-03-01
+    endDate: 2020-05-01
+    highlights:
+      - Implemented and compared the L\* and NL\* learning algorithms through extensive testing on various models, successfully reproducing results from the original NL\* publication
+      - Proposed and validated an extension of NL\* to learn languages recognized by neural network models, addressing open questions about model variance
+skills:
+  - category: Programming languages
+    skills:
+      - Python
+      - TypeScript/JavaScript
+      - Swift
+      - Objective-C
+      - C/C++
+      - SQL
+  - category: Frameworks/libraries
+    skills:
+      - Node.js (NestJS, Express)
+      - React/React Native
+      - Flask
+      - SQLAlchemy
+      - Keras
+      - PyTorch
+      - LlamaIndex
+  - category: Cloud and DevOps
+    skills:
+      - AWS (Lambda, API Gateway, S3, ECS)
+      - Docker
+      - CI/CD basics
+  - category: Tools/technologies
+    skills:
+      - Git
+      - JIRA
+      - REST APIs
+      - GraphQL
+languages:
+  - language: Spanish
+    fluency: Native speaker
+  - language: English
+    fluency: Proficient
+  - language: French
+    fluency: Basic
+  - language: Portuguese
+    fluency: Basic
+interests:
+  - Fencing
+  - Video games
+  - Piano
