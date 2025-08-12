@@ -1,15 +1,14 @@
 personal:
   name: Sebastián Uriarte Güimil
   email: sebastian.uriarteg@gmail.com
-  phone: (+34) 655 316 296
+  phone: (+598) 91946954
   url: null
   titles:
     - Software Engineer
     - Lecturer
   location:
-    city: Santiago de Compostela
-    region: Galicia
-    country: Spain
+    city: Montevideo
+    country: Uruguay
   profiles:
     - network: LinkedIn
       username: sebassu
@@ -29,6 +28,8 @@ work:
           - Contributed to backend development and re-architecture efforts using Python, Flask, and Event Sourcing for scalable data processing
           - Built AI-driven data pipelines with LlamaIndex, enabling LLM natural language querying over social and user-uploaded data
           - Optimized ML-powered services for performance and scalability, successfully deployed in AWS environments
+          - Implemented complex data visualization components using React and TypeScript
+          - Developed an OCR agentic service to optimize client document workflows, integrating Google ADK and Azure Document Intelligence
   - organization: Centro de Supercomputación de Galicia (CESGA)
     url: https://www.cesga.es
     location: Santiago de Compostela, Spain
@@ -95,7 +96,7 @@ education:
     area: High Performance Computing
     studyType: Master's Degree
     startDate: 2024-09-01
-    endDate: 2025-08-01
+    endDate: 2026-09-03
     location: Santiago de Compostela, Spain
     courses: null
     honors: null
@@ -122,14 +123,14 @@ education:
     courses: null
     highlights: null
 projects:
-  - name: Parallelization of Parallel Pipeline Benchmarks with OneTBB
+  - name: Synthetic hyperspectral data generation from RGB Images for remote sensing using transformer architectures and parallel computing
     url: null
     affiliation: Universidad de Santiago de Compostela
-    startDate: 2025-02-01
-    endDate: 2025-08-01
+    startDate: 2026-02-01
+    endDate: 2026-09-03
     highlights:
-      - Reimplemented the _ferret_ and _dedup_ workloads from the PARSEC benchmark suite using Intel OneTBB, including a version based on flow graph abstractions
-      - Conducted performance comparisons between the original and reengineered versions, analyzing scalability and efficiency improvements achieved through modern parallelization techniques
+      - Implemented distributed training pipelines for MST++ and Restormer transformer architectures on HPC clusters using PyTorch DDP, enabling efficient multi-GPU and multi-node training for spectral reconstruction.
+      - Evaluated model performance using remote sensing metrics (MRAE, PSNR, SAM) and conducted scalability analysis across distributed computing strategies to optimize training efficiency on large-scale satellite imagery datasets.
   - name: Design and implementation of a prototype to protect sensitive data using Homomorphic Encryption and Differential Privacy
     url: https://sisbibliotecas.ort.edu.uy/cgi-bin/koha/opac-retrieve-file.pl?id=d0998acb2f986a959b5a4c95a816498b
     affiliation: Universidad ORT Uruguay
