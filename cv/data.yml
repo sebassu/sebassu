@@ -17,13 +17,25 @@ personal:
       username: sebassu
       url: https://github.com/sebassu
 work:
+  - organization: Vizit
+    url: https://www.vizit.com
+    location: Boston, USA (Remote)
+    positions:
+      - position: Senior Full-Stack Engineer/Tech Lead
+        startDate: 2026-02-24
+        endDate: "present"
+        highlights:
+          - Built a greenfield Salsify PIM integration with Python, AWS Lambda, SQS, and CDK, ingesting products via signed webhooks and writing scores and reordered images back into live customer records
+          - Automated Syndigo PIM data exchange with Python, Kestra, and SFTP, replacing a manual export process and enabling per-brand scoring configuration without a deploy
+          - Rolled out AWS SQS Fair Queues across three core services so one tenant's bulk imports stopped starving others
+          - Added CI coverage gates and post-deploy end-to-end API tests
   - organization: Blend
     url: https://www.blend360.com
     location: Montevideo, Uruguay
     positions:
-      - position: Senior Full Stack Engineer
+      - position: Senior Full-Stack Engineer
         startDate: 2022-11-01
-        endDate: "present"
+        endDate: 2026-02-01
         highlights:
           - Contributed to backend development and re-architecture efforts using Python, Flask, and Event Sourcing for scalable data processing
           - Built AI-driven data pipelines with LlamaIndex, enabling LLM natural language querying over social and user-uploaded data
@@ -72,7 +84,7 @@ work:
     url: https://www.globant.com
     location: Montevideo, Uruguay
     positions:
-      - position: SSr. Adv. Developer
+      - position: SSr. Advanced Developer
         startDate: 2021-07-01
         endDate: 2022-11-01
         highlights:
@@ -161,19 +173,22 @@ skills:
       - Node.js (NestJS, Express)
       - React/React Native
       - Flask
-      - SQLAlchemy
+      - SQLAlchemy/Alembic
       - Keras
       - PyTorch
       - LlamaIndex
   - category: Cloud and DevOps
     skills:
-      - AWS (Lambda, API Gateway, S3, ECS)
+      - AWS (Lambda, SQS, CDK, API Gateway, S3, ECS)
+      - Terraform
       - Docker
-      - CI/CD basics
+      - CI/CD (GitHub Actions)
+      - Kestra
   - category: Tools/technologies
     skills:
       - Git
-      - JIRA
+      - PostgreSQL
+      - JIRA/Linear
       - REST APIs
       - GraphQL
 languages:
