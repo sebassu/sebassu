@@ -10,7 +10,7 @@
 - Occasional [game](https://globalgamejam.org/users/sebassu) [jam](https://v3.globalgamejam.org/users/sebassu) and Hacktoberfest/[Advent of Code](https://github.com/sebassu/advent-of-code) participant.
 - Into fencing, piano, and video games. [Zachtronics](https://github.com/sebassu/zachtronics-solutions) enthusiast. <br/><br/>
 
-![Python](assets/badges/python.svg) ![FastAPI](assets/badges/fastapi.svg) ![Flask](assets/badges/flask.svg) ![SQLAlchemy](assets/badges/sqlalchemy.svg) ![AWS](assets/badges/aws.svg) ![TypeScript](assets/badges/typescript.svg) ![Node.js](assets/badges/nodejs.svg) ![NestJS](assets/badges/nestjs.svg) ![React](assets/badges/react.svg) ![React Native](assets/badges/react-native.svg) ![GraphQL](assets/badges/graphql.svg) ![Swift](assets/badges/swift.svg) ![Objective-C](assets/badges/objective-c.svg)
+[![Python](assets/badges/python.svg)](https://www.python.org/) [![FastAPI](assets/badges/fastapi.svg)](https://fastapi.tiangolo.com/) [![Flask](assets/badges/flask.svg)](https://flask.palletsprojects.com/) [![SQLAlchemy](assets/badges/sqlalchemy.svg)](https://www.sqlalchemy.org/) [![AWS](assets/badges/aws.svg)](https://aws.amazon.com/) [![TypeScript](assets/badges/typescript.svg)](https://www.typescriptlang.org/) [![Node.js](assets/badges/nodejs.svg)](https://nodejs.org/) [![NestJS](assets/badges/nestjs.svg)](https://nestjs.com/) [![React](assets/badges/react.svg)](https://react.dev/) [![React Native](assets/badges/react-native.svg)](https://reactnative.dev/) [![GraphQL](assets/badges/graphql.svg)](https://graphql.org/) [![Swift](assets/badges/swift.svg)](https://www.swift.org/) [![Objective-C](assets/badges/objective-c.svg)](https://developer.apple.com/documentation/objectivec)
 
 </td>
 <td width="325" valign="middle" align="center">
@@ -36,7 +36,7 @@
   <a href="https://www.hackerrank.com/profile/sebassu"><img src="https://wsrv.nl/?url=hackerrank-badges.vercel.app%2Fsebassu&bg=d8dee4&w=1000&output=png" height="72" align="middle" alt="HackerRank badges" /></a>
 </p>
 
-[![An image of @sebassu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sebassu)](https://holopin.io/@sebassu)
+[![An image of @sebassu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sebassu)](https://www.holopin.io/@sebassu)
 
 <p align="center">
   <img src="assets/spacechem-signature.png" alt="SpaceChem signature" />
