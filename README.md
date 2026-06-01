@@ -30,6 +30,10 @@
 <br />
 
 <p align="center">
+  <img src="assets/spacechem-signature.png" alt="SpaceChem signature" />
+</p>
+
+<p align="center">
   <a href="https://www.codewars.com/users/Sebassu"><img src="https://www.codewars.com/users/Sebassu/badges/large" height="20" align="middle" alt="Codewars badge" /></a>
   <a href="https://tryhackme.com/p/Sebassu"><img src="https://tryhackme-badges.s3.amazonaws.com/sebassu.png" height="46" align="middle" alt="TryHackMe badge" /></a>
   <a href="https://app.hackthebox.com/users/1036688"><img src="https://www.hackthebox.com/badge/image/1036688" height="46" align="middle" alt="Hack The Box badge" /></a>
@@ -37,9 +41,5 @@
 </p>
 
 [![An image of @sebassu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sebassu)](https://www.holopin.io/@sebassu)
-
-<p align="center">
-  <img src="assets/spacechem-signature.png" alt="SpaceChem signature" />
-</p>
 
 </details>
