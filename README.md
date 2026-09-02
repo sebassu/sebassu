@@ -15,7 +15,7 @@
 </td>
 <td width="325" valign="middle" align="center">
   <img src="assets/profile-picture.jpg" width="300" alt="Profile picture" /><br /><br />
-  <a href="https://linkedin.com/in/sebassu"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sebassu"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
 </td>
 </tr>
 </table>
@@ -40,6 +40,6 @@
   <a href="https://www.hackerrank.com/profile/sebassu"><img src="https://wsrv.nl/?url=hackerrank-badges.vercel.app%2Fsebassu&bg=d8dee4&w=1000&output=png" height="72" align="middle" alt="HackerRank badges" /></a>
 </p>
 
-[![An image of @sebassu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sebassu)](https://www.holopin.io/@sebassu)
+[![Holopin badges](https://wsrv.nl/?url=holopin.me/sebassu&w=1700&output=png&maxage=7d)](https://www.holopin.io/@sebassu)
 
 </details>
