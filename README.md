@@ -21,7 +21,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats-multiuser.vercel.app/api?usernames=sebassu&count_private=true&show_icons=true&hide=stars&hide_rank=true&theme=github_dark&hide_border=true&custom_title=GitHub%20Stats&card_width=317" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sebassu&include_all_commits=true&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true&custom_title=GitHub%20Statistics&card_width=317" alt="GitHub stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sebassu&theme=github_dark&hide_border=true&layout=compact&card_width=513" alt="Most used languages" />
 </p>
 
