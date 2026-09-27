@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top">
+<td valign="middle">
 
 - Senior full-stack engineer at [Vizit](https://www.vizit.com).
 - Lecturer at [Universidad ORT Uruguay](https://www.ort.edu.uy), teaching compilers, formal languages, and data structures/algorithms.
@@ -21,8 +21,8 @@
 </table>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sebassu&include_all_commits=true&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true&custom_title=GitHub%20Statistics&card_width=317" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sebassu&theme=github_dark&hide_border=true&layout=compact&card_width=513" alt="Most used languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sebassu&include_all_commits=true&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true&custom_title=GitHub%20Statistics&card_width=377" width="37.5%" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sebassu&theme=github_dark&hide_border=true&layout=compact&card_width=516" width="61%" alt="Most used languages" />
 </p>
 
 <details>
@@ -34,10 +34,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.codewars.com/users/Sebassu"><img src="https://www.codewars.com/users/Sebassu/badges/large" height="20" align="middle" alt="Codewars badge" /></a>
-  <a href="https://tryhackme.com/p/Sebassu"><img src="https://tryhackme-badges.s3.amazonaws.com/sebassu.png" height="46" align="middle" alt="TryHackMe badge" /></a>
-  <a href="https://app.hackthebox.com/users/1036688"><img src="https://www.hackthebox.com/badge/image/1036688" height="46" align="middle" alt="Hack The Box badge" /></a>
-  <a href="https://www.hackerrank.com/profile/sebassu"><img src="https://wsrv.nl/?url=hackerrank-badges.vercel.app%2Fsebassu&bg=d8dee4&w=1000&output=png" height="72" align="middle" alt="HackerRank badges" /></a>
+  <a href="https://leetcode.com/u/Sebassu/"><img src="https://leetcard.jacoblin.cool/sebassu" width="28.1%" align="middle" alt="LeetCode stats" /></a>
+  <a href="https://www.hackerrank.com/profile/sebassu"><img src="https://wsrv.nl/?url=hackerrank-badges.vercel.app%2Fsebassu&bg=d8dee4&w=1000&output=png" width="33.7%" align="middle" alt="HackerRank badges" /></a>
+  <a href="https://www.codewars.com/users/Sebassu"><img src="https://www.codewars.com/users/Sebassu/badges/large" width="33.1%" align="middle" alt="Codewars badge" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.kaggle.com/sebassu"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/sebassu" width="28.4%" align="middle" alt="Kaggle badge" /></a>
+  <a href="https://tryhackme.com/p/Sebassu"><img src="https://tryhackme-badges.s3.amazonaws.com/sebassu.png" width="28.3%" align="middle" alt="TryHackMe badge" /></a>
+  <a href="https://app.hackthebox.com/users/1036688"><img src="https://www.hackthebox.com/badge/image/1036688" width="33.3%" align="middle" alt="Hack The Box badge" /></a>
 </p>
 
 [![Holopin badges](https://wsrv.nl/?url=holopin.me/sebassu&w=1700&output=png&maxage=7d)](https://www.holopin.io/@sebassu)
